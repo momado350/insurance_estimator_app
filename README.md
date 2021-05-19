@@ -14,3 +14,10 @@ bmi: individual’s body mass index
 num_of_children: number of children the individual has
 smoker: 0 for a non-smoker, 1 for a smoker
 
+### WHO BMI Ranges:
+BMI > 30: obese
+BMI >= 25 and bmi <= 30: overweight
+BMI >= 18.5 and bmi < 25: normal weight
+BMI < 18.5: underweight
+
+
