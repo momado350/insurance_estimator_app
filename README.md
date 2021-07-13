@@ -19,5 +19,6 @@ BMI > 30: obese
 BMI >= 25 and bmi <= 30: overweight
 BMI >= 18.5 and bmi < 25: normal weight
 BMI < 18.5: underweight
+deployed !!!
 
 
